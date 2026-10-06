@@ -12,7 +12,7 @@ public class AppTienda {
 
         System.out.println("\nRECORRIENDO ELEMENTOS (Orden Inverso por el Iterador Propio");
         for (Mercancia item : miCanasta) {
-            System.out.println("->  " + item);
+            System.out.println("->   " + item);
         }
     }
 }
